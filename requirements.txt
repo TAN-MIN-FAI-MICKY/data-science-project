@@ -1,5 +1,6 @@
-pandas
-numpy
-matplotlib
-seaborn
-jupyter
+jupyter==1.1.1
+ipykernel==7.4.0
+matplotlib==3.11.2
+numpy==1.26.4
+pandas==3.0.6
+seaborn==0.13.2
